@@ -1,0 +1,39 @@
+body{
+	background-image:url("images/space.gif");
+}
+.pegasi{
+	background-color:LightSteelBlue;
+}
+.unicorns{
+	background-color:#aaf7d1;
+}
+.earth{
+	background-color:#ffc86b;
+}
+.officer{
+	color:red;
+}
+.admin{
+	color:dimgray;
+}
+.cmd{
+	color:black;
+}
+.secondincmd{
+	color:steelblue;
+}
+.capofbtd{
+	color:blue;
+}
+.eventcoordinator{
+	color:green;
+}
+.capofhearthfire{
+	color:darkgreen;
+}
+.colonel{
+	color:goldenrod;
+}
+.recruit{
+	color:purple;
+}
